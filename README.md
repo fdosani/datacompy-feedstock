@@ -115,6 +115,8 @@ Feedstock Maintainers
 =====================
 
 * [@fdosani](https://github.com/fdosani/)
+* [@elzzhu](https://github.com/elzzhu/)
+* [@jborchma](https://github.com/jborchma/)
 * [@pg-hbk](https://github.com/pg-hbk/)
 * [@sy-hbk](https://github.com/sy-hbk/)
 
